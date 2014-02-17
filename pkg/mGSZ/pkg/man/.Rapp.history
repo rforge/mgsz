@@ -1,0 +1,3 @@
+load("/Users/pashu/Downloads/topClassesGender(1).RData")
+ls()
+topClasses
